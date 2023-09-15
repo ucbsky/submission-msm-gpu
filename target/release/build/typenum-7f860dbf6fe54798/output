@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/efsanesoyer/fast-zk/yyrid/target/release/build/typenum-7f860dbf6fe54798/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/efsanesoyer/fast-zk/yyrid/target/release/build/typenum-7f860dbf6fe54798/out/op.rs

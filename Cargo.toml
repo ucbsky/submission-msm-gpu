@@ -3,6 +3,9 @@ name = "blst-msm"
 version = "0.1.0"
 edition = "2018"
 
+[lib]
+crate-type = ["cdylib", "staticlib"]
+
 [features]
 # By default, compile with ADX extension if the host supports it.
 # Binary can be executed on systems similar to the host.
