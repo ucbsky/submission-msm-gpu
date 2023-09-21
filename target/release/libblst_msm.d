@@ -1,1 +1,1 @@
-/home/efsanesoyer/fast-zk/yyrid/target/release/libblst_msm.so: /home/efsanesoyer/fast-zk/yyrid/build.rs /home/efsanesoyer/fast-zk/yyrid/cuda /home/efsanesoyer/fast-zk/yyrid/src/lib.rs /home/efsanesoyer/fast-zk/yyrid/src/util.rs
+/home/gcpuser/sky_workdir/fast-zk/yyrid/target/release/libblst_msm.so: /home/gcpuser/sky_workdir/fast-zk/yyrid/build.rs /home/gcpuser/sky_workdir/fast-zk/yyrid/cuda /home/gcpuser/sky_workdir/fast-zk/yyrid/src/lib.rs /home/gcpuser/sky_workdir/fast-zk/yyrid/src/util.rs
